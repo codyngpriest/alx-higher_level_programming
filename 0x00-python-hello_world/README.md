@@ -23,3 +23,6 @@ Completes this source code in order to print 3 times a string stored in the vari
 
 6. Play with strings
 Completes this source code to print Welcome to Holberton School!
+
+7. Copy - Cut - Paste
+Completes source code
