@@ -42,3 +42,6 @@ This is a Python script that prints exactly and that piece of art is useful - Do
 12. Compile
 This is a script that compiles a Python script file.
 The Python file name will be stored in the environment variable $PYFILE
+
+13. ByteCode -> Python #1
+This is the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
