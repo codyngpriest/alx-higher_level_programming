@@ -26,3 +26,6 @@ Completes this source code to print Welcome to Holberton School!
 
 7. Copy - Cut - Paste
 Completes source code
+
+8. Create a new sentence
+Completes source code to print object-oriented programming with Python, followed by a new line.
