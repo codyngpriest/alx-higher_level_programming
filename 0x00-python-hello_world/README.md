@@ -11,3 +11,6 @@ The Python code is saved in the environment variable $PYCODE
 
 2. Hello, print
 This is a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. It uses the print function.
+
+3. Print integer
+Completes the source code in order to print the integer stored in the variable number, followed by Battery street, followed by a new line.
