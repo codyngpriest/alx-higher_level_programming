@@ -29,3 +29,6 @@ Completes source code
 
 8. Create a new sentence
 Completes source code to print object-oriented programming with Python, followed by a new line.
+
+9. Easter Egg
+This is a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
