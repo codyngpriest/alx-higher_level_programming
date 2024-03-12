@@ -25,3 +25,6 @@ This is a program that prints all possible different combinations of two digits.
 
 7. islower
 This is a function that checks for lowercase character.
+
+8. To uppercase
+This is a function that prints a string in uppercase followed by a new line.
