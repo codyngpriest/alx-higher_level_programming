@@ -43,3 +43,6 @@ This is a function that prints the numbers from 1 to 100 separated by a space.
 For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
 For numbers which are multiples of both three and five print FizzBuzz.
 Prototype: def fizzbuzz():
+
+13. Insert in sorted linked list
+This is a function in C that inserts a number into a sorted singly linked list.
