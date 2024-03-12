@@ -52,3 +52,6 @@ This is a program that prints the ASCII alphabet, in reverse order, alternating 
 
 15. Remove at position
 This is a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
+
+16. ByteCode -> Python #2
+This is a Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode:
