@@ -19,3 +19,6 @@ This is a program that prints all numbers from 0 to 98 in decimal and in hexadec
 
 5. 00...99
 This is a program that prints numbers from 0 to 99.
+
+6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+This is a program that prints all possible different combinations of two digits.
