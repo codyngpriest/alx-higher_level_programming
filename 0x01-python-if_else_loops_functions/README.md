@@ -22,3 +22,6 @@ This is a program that prints numbers from 0 to 99.
 
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 This is a program that prints all possible different combinations of two digits.
+
+7. islower
+This is a function that checks for lowercase character.
