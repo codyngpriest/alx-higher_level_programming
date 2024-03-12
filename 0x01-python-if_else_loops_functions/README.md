@@ -34,3 +34,6 @@ This is a function that prints the last digit of a number.
 
 10. a + b
 This is a function that adds two integers and returns the result.
+
+11. a ^ b
+This is a function that computes a to the power of b and return the value.
