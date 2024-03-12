@@ -49,3 +49,6 @@ This is a function in C that inserts a number into a sorted singly linked list.
 
 14. Smile in the mirror
 This is a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
+
+15. Remove at position
+This is a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
