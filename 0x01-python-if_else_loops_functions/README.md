@@ -37,3 +37,9 @@ This is a function that adds two integers and returns the result.
 
 11. a ^ b
 This is a function that computes a to the power of b and return the value.
+
+12. Fizz Buzz
+This is a function that prints the numbers from 1 to 100 separated by a space.
+For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
+For numbers which are multiples of both three and five print FizzBuzz.
+Prototype: def fizzbuzz():
