@@ -22,3 +22,6 @@ This is a program that imports the variable a from the file variable_load_5.py a
 
 6. Build my own calculator!
 This is a program that imports all functions from the file calculator_1.py and handles basic operations.
+
+7. Easy print
+This is a program that prints #pythoniscool, followed by a new line, in the standard output.
