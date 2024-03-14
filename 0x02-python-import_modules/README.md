@@ -13,3 +13,6 @@ This is a program that prints the number of and the list of its arguments.
 
 3. Infinite addition
 This is a program that prints the result of the addition of all arguments
+
+4. Who are you?
+This is a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).
