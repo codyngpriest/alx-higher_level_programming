@@ -16,3 +16,6 @@ This is a program that prints the result of the addition of all arguments
 
 4. Who are you?
 This is a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).
+
+5. Everything can be imported
+This is a program that imports the variable a from the file variable_load_5.py and prints its value.
