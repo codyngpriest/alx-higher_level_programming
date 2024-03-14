@@ -28,3 +28,6 @@ This is a program that prints #pythoniscool, followed by a new line, in the stan
 
 8. ByteCode -> Python #3
 This is the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+
+9. Fast alphabet
+This is a program that prints the alphabet in uppercase, followed by a new line.
