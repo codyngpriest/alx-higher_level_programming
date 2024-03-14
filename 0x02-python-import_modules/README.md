@@ -25,3 +25,6 @@ This is a program that imports all functions from the file calculator_1.py and h
 
 7. Easy print
 This is a program that prints #pythoniscool, followed by a new line, in the standard output.
+
+8. ByteCode -> Python #3
+This is the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
