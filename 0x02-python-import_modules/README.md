@@ -19,3 +19,6 @@ This is a program that prints all the names defined by the compiled module hidde
 
 5. Everything can be imported
 This is a program that imports the variable a from the file variable_load_5.py and prints its value.
+
+6. Build my own calculator!
+This is a program that imports all functions from the file calculator_1.py and handles basic operations.
