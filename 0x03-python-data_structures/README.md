@@ -31,3 +31,6 @@ This is a function that returns a tuple with the length of a string and its firs
 
 9. Find the max
 This is a function that finds the biggest integer of a list.
+
+10. Only by 2
+This is a function that finds all multiples of 2 in a list.
