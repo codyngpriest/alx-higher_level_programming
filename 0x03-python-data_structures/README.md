@@ -34,3 +34,6 @@ This is a function that finds the biggest integer of a list.
 
 10. Only by 2
 This is a function that finds all multiples of 2 in a list.
+
+11. Delete at
+This is a function that deletes the item at a specific position in a list.
