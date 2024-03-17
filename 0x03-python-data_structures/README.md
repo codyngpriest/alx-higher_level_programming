@@ -10,3 +10,6 @@ This is a function that retrieves an element from a list like in C.
 
 2. Replace element
 This is a function that replaces an element of a list at a specific position (like in C).
+
+3. Print a list of integers... in reverse!
+This is a function that prints all integers of a list, in reverse order.
