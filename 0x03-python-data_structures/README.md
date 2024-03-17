@@ -40,3 +40,6 @@ This is a function that deletes the item at a specific position in a list.
 
 12. Switch
 This is completes the source code in order to switch value of a and b
+
+13. Linked list palindrome
+This is a function in C that checks if a singly linked list is a palindrome.
