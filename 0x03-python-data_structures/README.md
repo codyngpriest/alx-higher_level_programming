@@ -22,3 +22,6 @@ This is a function that removes all characters c and C from a string.
 
 6. Lists of lists = Matrix
 This is a function that prints a matrix of integers.
+
+7. Tuples addition
+This is a function that adds 2 tuples.
