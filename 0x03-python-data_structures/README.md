@@ -19,3 +19,6 @@ This is a function that replaces an element in a list at a specific position wit
 
 5. Can you C me now?
 This is a function that removes all characters c and C from a string.
+
+6. Lists of lists = Matrix
+This is a function that prints a matrix of integers.
