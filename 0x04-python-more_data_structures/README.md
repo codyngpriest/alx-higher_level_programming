@@ -46,3 +46,6 @@ This is a function that returns the weighted average of all integers tuple (<sco
 
 14. Squared by using map
 This is a function that computes the square value of all integers of a matrix using map
+
+15. Delete by value
+This is a function that deletes keys with a specific value in a dictionary.
