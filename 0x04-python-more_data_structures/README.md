@@ -28,3 +28,6 @@ This is a function that replaces or adds key/value in a dictionary.
 
 8. Simple delete by key
 This is a function that deletes a key in a dictionary.
+
+9. Multiply by 2
+This is a function that returns a new dictionary with all values multiplied by 2
