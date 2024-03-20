@@ -41,3 +41,5 @@ This is a function that returns a list with all values multiplied by a number wi
 12. Roman to Integer
 This is a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
 
+13. Weighted average!
+This is a function that returns the weighted average of all integers tuple (<score>, <weight>)
