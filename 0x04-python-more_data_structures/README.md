@@ -25,3 +25,6 @@ This is a function that prints a dictionary by ordered keys.
 
 7. Update dictionary
 This is a function that replaces or adds key/value in a dictionary.
+
+8. Simple delete by key
+This is a function that deletes a key in a dictionary.
