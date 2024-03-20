@@ -49,3 +49,6 @@ This is a function that computes the square value of all integers of a matrix us
 
 15. Delete by value
 This is a function that deletes keys with a specific value in a dictionary.
+
+16. CPython #1: PyBytesObject
+These are two C functions that print some basic info about Python lists and Python bytes objects.
