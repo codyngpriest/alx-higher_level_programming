@@ -43,3 +43,6 @@ This is a function def roman_to_int(roman_string): that converts a Roman numeral
 
 13. Weighted average!
 This is a function that returns the weighted average of all integers tuple (<score>, <weight>)
+
+14. Squared by using map
+This is a function that computes the square value of all integers of a matrix using map
