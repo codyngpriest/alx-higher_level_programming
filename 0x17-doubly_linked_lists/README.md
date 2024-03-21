@@ -31,3 +31,6 @@ This is a function that deletes the node at index index of a dlistint_t linked l
 
 9. Crackme4
 Find the password for crackme4.
+
+10. Palindromes
+A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
