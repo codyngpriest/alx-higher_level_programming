@@ -16,3 +16,6 @@ This is a function that adds a new node at the end of a dlistint_t list.
 
 4. Free list
 This is a function that frees a dlistint_t list.
+
+5. Get node at index
+This is a function that returns the nth node of a dlistint_t linked list.
