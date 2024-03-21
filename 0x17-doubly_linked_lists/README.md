@@ -22,3 +22,6 @@ This is a function that returns the nth node of a dlistint_t linked list.
 
 6. Sum list
 This is a function that returns the sum of all the data (n) of a dlistint_t linked list.
+
+7. Insert at index
+This is a function that inserts a new node at a given position.
