@@ -13,3 +13,6 @@ This is a function that adds a new node at the beginning of a dlistint_t list.
 
 3. Add node at the end
 This is a function that adds a new node at the end of a dlistint_t list.
+
+4. Free list
+This is a function that frees a dlistint_t list.
