@@ -19,3 +19,6 @@ This is a function that frees a dlistint_t list.
 
 5. Get node at index
 This is a function that returns the nth node of a dlistint_t linked list.
+
+6. Sum list
+This is a function that returns the sum of all the data (n) of a dlistint_t linked list.
