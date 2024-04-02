@@ -22,3 +22,6 @@ This is a class Square that defines a square by: (based on 4-square.py)
 
 6. Coordinates of a square
 This is a class Square that defines a square by: (based on 5-square.py)
+
+7. Singly linked list
+This is a class Node that defines a node of a singly linked list by:
