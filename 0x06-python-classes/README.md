@@ -19,3 +19,6 @@ This is a class Square that defines a square by: (based on 3-square.py)
 
 5. Printing a square
 This is a class Square that defines a square by: (based on 4-square.py)
+
+6. Coordinates of a square
+This is a class Square that defines a square by: (based on 5-square.py)
