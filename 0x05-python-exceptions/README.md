@@ -19,3 +19,6 @@ This is a function that divides element by element 2 lists.
 
 5. Raise exception
 This is a function that raises a type exception.
+
+6. Raise a message
+This is a function that raises a name exception with a message.
