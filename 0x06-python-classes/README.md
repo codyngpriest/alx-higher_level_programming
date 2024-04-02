@@ -25,3 +25,9 @@ This is a class Square that defines a square by: (based on 5-square.py)
 
 7. Singly linked list
 This is a class Node that defines a node of a singly linked list by:
+
+8. Print Square instance
+This is a class Square that defines a square by: (based on 6-square.py)
+
+9. Compare 2 squares
+This is a class Square that defines a square by: (based on 4-square.py)
