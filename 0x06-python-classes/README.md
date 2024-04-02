@@ -31,3 +31,6 @@ This is a class Square that defines a square by: (based on 6-square.py)
 
 9. Compare 2 squares
 This is a class Square that defines a square by: (based on 4-square.py)
+
+10. ByteCode -> Python #5
+This is the Python class MagicClass that does exactly the same as the following Python bytecode:
