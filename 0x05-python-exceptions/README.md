@@ -28,3 +28,6 @@ This is a function that prints an integer.
 
 8. Safe function
 This is a function that executes a function safely.
+
+9. ByteCode -> Python #4
+This is the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
