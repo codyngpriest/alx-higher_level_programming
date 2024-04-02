@@ -31,3 +31,7 @@ This is a function that executes a function safely.
 
 9. ByteCode -> Python #4
 This is the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+
+10. CPython #2: PyFloatObject
+These are three C functions that print some basic info about Python lists, Python bytes an Python float objects.
+
