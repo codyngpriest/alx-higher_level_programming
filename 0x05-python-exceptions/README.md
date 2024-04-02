@@ -7,3 +7,6 @@ This is a function that prints x elements of a list.
 
 1. Safe printing of an integers list
 This is a function that prints an integer with "{:d}".format().
+
+2. Print and count integers
+This is a function that prints the first x elements of a list and only integers.
