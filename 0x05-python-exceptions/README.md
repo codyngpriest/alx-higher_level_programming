@@ -22,3 +22,6 @@ This is a function that raises a type exception.
 
 6. Raise a message
 This is a function that raises a name exception with a message.
+
+7. Safe integer print with error message
+This is a function that prints an integer.
