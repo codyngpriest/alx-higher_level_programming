@@ -13,3 +13,6 @@ This is a class Square that defines a square by: (based on 1-square.py)
 
 3. Area of a square
 This is a class Square that defines a square by: (based on 2-square.py)
+
+4. Access and update private attribute
+This is a class Square that defines a square by: (based on 3-square.py)
