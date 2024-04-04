@@ -15,5 +15,7 @@ This is a function that prints My name is <first name> <last name>
 This is a function that prints a square with the character #.
 
 4. Text indentation
-This is a function that prints a text with 2 new lines after each of these
-characters: ., ? and :
+This is a function that prints a text with 2 new lines after each of these characters: ., ? and :
+
+5. Max integer - Unittest
+This is a unittests for the function def max_integer(list=[]):.
