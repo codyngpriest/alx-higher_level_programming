@@ -25,3 +25,6 @@ This is a function that multiplies 2 matrices:
 
 7. Lazy matrix multiplication
 This is a function that multiplies 2 matrices by using the module NumPy
+
+8. CPython #3: Python Strings
+This is a function that prints Python strings.
