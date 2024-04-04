@@ -22,3 +22,6 @@ This is a unittests for the function def max_integer(list=[]):.
 
 6. Matrix multiplication
 This is a function that multiplies 2 matrices:
+
+7. Lazy matrix multiplication
+This is a function that multiplies 2 matrices by using the module NumPy
