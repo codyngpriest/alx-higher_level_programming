@@ -19,3 +19,6 @@ This is a function that prints a text with 2 new lines after each of these chara
 
 5. Max integer - Unittest
 This is a unittests for the function def max_integer(list=[]):.
+
+6. Matrix multiplication
+This is a function that multiplies 2 matrices:
