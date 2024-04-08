@@ -10,3 +10,6 @@ This is a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
 
 2. Area and Perimeter
 This is a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
+
+3. String representation
+This is a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
