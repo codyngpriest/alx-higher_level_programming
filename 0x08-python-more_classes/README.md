@@ -4,3 +4,6 @@ Tasks
 
 0. Simple rectangle
 This is an empty class Rectangle that defines a rectangle.
+
+1. Real definition of a rectangle
+This is a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
