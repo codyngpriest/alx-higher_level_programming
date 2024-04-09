@@ -119,7 +119,6 @@ l2 = [4, 5, 6]
 assign_value(l1, l2)
 print(l1)
 
-
 19. Copy a list object
 This is a function def copy_list(l): that returns a copy of a list.
 
@@ -127,3 +126,6 @@ This is a function def copy_list(l): that returns a copy of a list.
 a = ()
 Is a a tuple? Answer with Yes or No.
 
+21. Tuple or not?
+a = (1, 2)
+Is a a tuple? Answer with Yes or No.
