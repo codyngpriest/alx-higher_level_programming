@@ -123,3 +123,7 @@ print(l1)
 19. Copy a list object
 This is a function def copy_list(l): that returns a copy of a list.
 
+20. Tuple or not?
+a = ()
+Is a a tuple? Answer with Yes or No.
+
