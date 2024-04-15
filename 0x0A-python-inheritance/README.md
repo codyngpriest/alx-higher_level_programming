@@ -7,3 +7,6 @@ This is a function that returns the list of available attributes and methods of 
 
 1. My list
 This is a class MyList that inherits from list
+
+2. Exact same object
+This is a function that returns True if the object is exactly an instance of the specified class ; otherwise False.
