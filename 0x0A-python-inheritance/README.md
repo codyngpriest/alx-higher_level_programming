@@ -19,3 +19,6 @@ This is a function that returns True if the object is an instance of a class tha
 
 5. Geometry module
 This is an empty class BaseGeometry.
+
+6. Improve Geometry
+This is a class BaseGeometry (based on 5-base_geometry.py).
