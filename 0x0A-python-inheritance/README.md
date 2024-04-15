@@ -10,3 +10,6 @@ This is a class MyList that inherits from list
 
 2. Exact same object
 This is a function that returns True if the object is exactly an instance of the specified class ; otherwise False.
+
+3. Same class or inherit from
+This is a function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
