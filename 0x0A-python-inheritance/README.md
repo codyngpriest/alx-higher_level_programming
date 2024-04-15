@@ -28,3 +28,6 @@ This is a class BaseGeometry (based on 6-base_geometry.py).
 
 8. Rectangle
 This is a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
+
+9. Full rectangle
+This is a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
