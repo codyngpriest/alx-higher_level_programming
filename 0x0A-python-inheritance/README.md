@@ -37,3 +37,6 @@ This is a class Square that inherits from Rectangle (9-rectangle.py):
 
 11. Square #2
 This is a class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+
+12. My integer
+This is a class MyInt that inherits from int
