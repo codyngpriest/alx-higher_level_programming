@@ -31,3 +31,6 @@ This is a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
 
 9. Full rectangle
 This is a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
+
+10. Square #1
+This is a class Square that inherits from Rectangle (9-rectangle.py):
