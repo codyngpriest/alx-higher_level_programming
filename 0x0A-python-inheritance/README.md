@@ -16,3 +16,6 @@ This is a function that returns True if the object is an instance of, or if the 
 
 4. Only sub class of
 This is a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
+
+5. Geometry module
+This is an empty class BaseGeometry.
