@@ -25,3 +25,6 @@ This is a class BaseGeometry (based on 5-base_geometry.py).
 
 7. Integer validator
 This is a class BaseGeometry (based on 6-base_geometry.py).
+
+8. Rectangle
+This is a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
