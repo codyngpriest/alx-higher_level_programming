@@ -22,3 +22,6 @@ This is an empty class BaseGeometry.
 
 6. Improve Geometry
 This is a class BaseGeometry (based on 5-base_geometry.py).
+
+7. Integer validator
+This is a class BaseGeometry (based on 6-base_geometry.py).
