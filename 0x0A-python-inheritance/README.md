@@ -40,3 +40,6 @@ This is a class Square that inherits from Rectangle (9-rectangle.py). (task base
 
 12. My integer
 This is a class MyInt that inherits from int
+
+13. Can I?
+This is a function that adds a new attribute to an object if it’s possible
