@@ -52,3 +52,6 @@ Public method def to_json(self, attrs=None): that retrieves a dictionary represe
 If attrs is a list of strings, only attribute names contained in this list must be retrieved.
 Otherwise, all attributes must be retrieved
 You are not allowed to import any module
+
+11. Student to disk and reload
+This is a class Student that defines a student by: (based on 10-student.py)
