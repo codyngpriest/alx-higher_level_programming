@@ -19,3 +19,6 @@ This is a function that returns an object (Python data structure) represented by
 
 5. Save Object to a file
 This is a function that writes an Object to a text file, using a JSON representation:
+
+6. Create object from a JSON file
+This is a function that creates an Object from a “JSON file”
