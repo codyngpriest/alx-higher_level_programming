@@ -61,3 +61,6 @@ This is a function def pascal_triangle(n): that returns a list of lists of integ
 
 13. Search and update
 This is a function that inserts a line of text to a file, after each line containing a specific string (see example):
+
+14. Log parsing
+This is a script that reads stdin line by line and computes metrics:
