@@ -55,3 +55,6 @@ You are not allowed to import any module
 
 11. Student to disk and reload
 This is a class Student that defines a student by: (based on 10-student.py)
+
+12. Pascal's Triangle
+This is a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n
