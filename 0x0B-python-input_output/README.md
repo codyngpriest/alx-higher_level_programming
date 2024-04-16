@@ -16,3 +16,6 @@ This is a function that returns the JSON representation of an object (string):
 
 4. From JSON string to Object
 This is a function that returns an object (Python data structure) represented by a JSON string:
+
+5. Save Object to a file
+This is a function that writes an Object to a text file, using a JSON representation:
