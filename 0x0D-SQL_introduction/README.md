@@ -55,3 +55,6 @@ This is a script that lists all records of the table second_table of the databas
 
 17. Go to UTF8
 This is a script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8mb4_unicode_ci) in your MySQL server.
+
+18. Temperatures #0
+This is a script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
