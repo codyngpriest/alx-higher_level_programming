@@ -58,3 +58,6 @@ This is a script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8
 
 18. Temperatures #0
 This is a script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
+
+19. Temperatures #1
+This is a script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)
