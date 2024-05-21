@@ -25,3 +25,6 @@ This is a script that lists all rows of the table first_table from the database 
 
 7. First add
 This is a script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.
+
+8. Count 89
+This is a script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.
