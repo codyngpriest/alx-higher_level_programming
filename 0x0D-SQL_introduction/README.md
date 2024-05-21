@@ -37,3 +37,6 @@ This is a script that lists all records of the table second_table of the databas
 
 11. Select the best
 This is a script that lists all records with a score >= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.
+
+12. Cheating is bad
+This is a script that updates the score of Bob to 10 in the table second_table.
