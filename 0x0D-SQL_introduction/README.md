@@ -16,3 +16,6 @@ This is a script that lists all the tables of a database in your MySQL server.
 
 4. First table
 This is a script that creates a table called first_table in the current database in your MySQL server.
+
+5. Full description
+This is a script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.
