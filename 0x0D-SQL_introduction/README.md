@@ -22,3 +22,6 @@ This is a script that prints the full description of the table first_table from 
 
 6. List all in table
 This is a script that lists all rows of the table first_table from the database hbtn_0c_0 in your MySQL server.
+
+7. First add
+This is a script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.
