@@ -10,3 +10,6 @@ This is a script that creates the database hbtn_0c_0 in your MySQL server.
 
 2. Delete a database
 This is a script that deletes the database hbtn_0c_0 in your MySQL server.
+
+3. List tables
+This is a script that lists all the tables of a database in your MySQL server.
