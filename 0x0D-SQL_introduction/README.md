@@ -46,3 +46,6 @@ This is a script that removes all records with a score <= 5 in the table second_
 
 14. Average
 This is a script that computes the score average of all records in the table second_table of the database hbtn_0c_0 in your MySQL server.
+
+15. Number by score
+This is a script that lists the number of records with the same score in the table second_table of the database hbtn_0c_0 in your MySQL server.
