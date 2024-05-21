@@ -61,3 +61,6 @@ This is a script that displays the average temperature (Fahrenheit) by city orde
 
 19. Temperatures #1
 This is a script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)
+
+20. Temperatures #2
+This is a script that displays the max temperature of each state (ordered by State name).
