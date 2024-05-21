@@ -34,3 +34,6 @@ This is a script that creates a table second_table in the database hbtn_0c_0 in 
 
 10. List by best
 This is a script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.
+
+11. Select the best
+This is a script that lists all records with a score >= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.
