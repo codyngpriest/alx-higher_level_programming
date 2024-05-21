@@ -40,3 +40,9 @@ This is a script that lists all records with a score >= 10 in the table second_t
 
 12. Cheating is bad
 This is a script that updates the score of Bob to 10 in the table second_table.
+
+13. Score too low
+This is a script that removes all records with a score <= 5 in the table second_table of the database hbtn_0c_0 in your MySQL server.
+
+14. Average
+This is a script that computes the score average of all records in the table second_table of the database hbtn_0c_0 in your MySQL server.
