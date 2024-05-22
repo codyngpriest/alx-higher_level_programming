@@ -40,3 +40,6 @@ This is a script that lists all shows contained in the database hbtn_0d_tvshows.
 
 12. No genre
 This is a script that lists all shows contained in hbtn_0d_tvshows without a genre linked.
+
+13. Number of shows by genre
+This is a script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.
