@@ -37,3 +37,6 @@ This is a script that lists all shows contained in hbtn_0d_tvshows that have at 
 
 11. Genre ID for all shows
 This is a script that lists all shows contained in the database hbtn_0d_tvshows.
+
+12. No genre
+This is a script that lists all shows contained in hbtn_0d_tvshows without a genre linked.
