@@ -25,3 +25,6 @@ This is a script that creates the database hbtn_0d_usa and the table states (in 
 
 7. Cities table
 This is a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
+
+8. Cities of California
+This is a script that lists all the cities of California that can be found in the database hbtn_0d_usa.
