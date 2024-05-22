@@ -46,3 +46,6 @@ This is a script that lists all genres from hbtn_0d_tvshows and displays the num
 
 14. My genres
 This is a script that uses the hbtn_0d_tvshows database to lists all genres of the show Dexter.
+
+15. Only Comedy
+This is a script that lists all Comedy shows in the database hbtn_0d_tvshows.
