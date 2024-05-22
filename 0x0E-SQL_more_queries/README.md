@@ -58,3 +58,6 @@ This is a script that uses the hbtn_0d_tvshows database to list all genres not l
 
 18. No Comedy tonight!
 This is a script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows.
+
+19. Rotten tomatoes
+This is a script that lists all shows from hbtn_0d_tvshows_rate by their rating.
