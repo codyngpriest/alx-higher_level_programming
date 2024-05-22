@@ -19,3 +19,8 @@ This is a script that creates the table id_not_null on your MySQL server.
 
 5. Unique ID
 This is a script that creates the table unique_id on your MySQL server.
+
+6. States table
+This is a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.
+
+
