@@ -61,3 +61,6 @@ This is a script that lists all shows without the genre Comedy in the database h
 
 19. Rotten tomatoes
 This is a script that lists all shows from hbtn_0d_tvshows_rate by their rating.
+
+20. Best genre
+This is a script that lists all genres in the database hbtn_0d_tvshows_rate by their rating.
