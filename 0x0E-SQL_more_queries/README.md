@@ -34,3 +34,6 @@ This is a script that lists all cities contained in the database hbtn_0d_usa.
 
 10. Genre ID by show
 This is a script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.
+
+11. Genre ID for all shows
+This is a script that lists all shows contained in the database hbtn_0d_tvshows.
