@@ -16,3 +16,6 @@ This is a script that creates the table force_name on your MySQL server.
 
 4. ID can't be null
 This is a script that creates the table id_not_null on your MySQL server.
+
+5. Unique ID
+This is a script that creates the table unique_id on your MySQL server.
