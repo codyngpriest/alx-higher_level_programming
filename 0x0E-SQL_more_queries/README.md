@@ -10,3 +10,6 @@ This is a script that creates the MySQL server user user_0d_1.
 
 2. Read user
 This is a script that creates the database hbtn_0d_2 and the user user_0d_2.
+
+3. Always a name
+This is a script that creates the table force_name on your MySQL server.
