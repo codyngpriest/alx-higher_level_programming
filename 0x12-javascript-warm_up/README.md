@@ -14,3 +14,6 @@ This is a script that prints a message depending of the number of arguments pass
 
 3. Value of my argument
 This is a script that prints the first argument passed to it
+
+4. Create a sentence
+This is a script that prints two arguments passed to it, in the following format: “ is ”
