@@ -29,3 +29,6 @@ This is a script that prints x times “C is fun”
 
 8. Square
 This is a script that prints a square
+
+9. Add
+This is a script that prints the addition of 2 integers
