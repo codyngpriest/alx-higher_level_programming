@@ -38,3 +38,6 @@ This is a script that computes and prints a factorial
 
 11. Second biggest!
 This is a script that searches the second biggest integer in the list of arguments.
+
+12. Object
+This updates the script to replace the value 12 with 89:
