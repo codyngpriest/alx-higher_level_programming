@@ -26,3 +26,6 @@ This is a script that prints 3 lines: (like 1-multi_languages.js) but by using a
 
 7. I love C
 This is a script that prints x times “C is fun”
+
+8. Square
+This is a script that prints a square
