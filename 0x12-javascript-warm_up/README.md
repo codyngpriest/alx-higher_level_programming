@@ -32,3 +32,6 @@ This is a script that prints a square
 
 9. Add
 This is a script that prints the addition of 2 integers
+
+10. Factorial
+This is a script that computes and prints a factorial
