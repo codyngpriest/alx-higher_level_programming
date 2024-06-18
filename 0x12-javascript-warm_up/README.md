@@ -35,3 +35,6 @@ This is a script that prints the addition of 2 integers
 
 10. Factorial
 This is a script that computes and prints a factorial
+
+11. Second biggest!
+This is a script that searches the second biggest integer in the list of arguments.
