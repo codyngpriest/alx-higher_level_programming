@@ -53,3 +53,6 @@ This is a function that executes x times a function.
 
 16. Add me maybe
 This is a function that increments and calls a function.
+
+17. Increment object
+This updates the script by adding a new function incr that increments the integer value.
