@@ -23,3 +23,6 @@ This is a script that prints My number: <first argument converted in integer> if
 
 6. Loop to languages
 This is a script that prints 3 lines: (like 1-multi_languages.js) but by using an array of string and a loop
+
+7. I love C
+This is a script that prints x times “C is fun”
