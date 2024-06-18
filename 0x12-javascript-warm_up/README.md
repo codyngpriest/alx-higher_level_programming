@@ -44,3 +44,6 @@ This updates the script to replace the value 12 with 89:
 
 13. Add file
 This is a function that returns the addition of 2 integers.
+
+14. Const or not const
+This is a file that modifies the value of myVar to 333
