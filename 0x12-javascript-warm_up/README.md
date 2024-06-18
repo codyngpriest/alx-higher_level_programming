@@ -41,3 +41,6 @@ This is a script that searches the second biggest integer in the list of argumen
 
 12. Object
 This updates the script to replace the value 12 with 89:
+
+13. Add file
+This is a function that returns the addition of 2 integers.
