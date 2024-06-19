@@ -10,3 +10,6 @@ This is a class Rectangle that defines a rectangle:
 
 2. Rectangle #2
 This is a class Rectangle that defines a rectangle:
+
+3. Rectangle #3
+This is a class Rectangle that defines a rectangle:
