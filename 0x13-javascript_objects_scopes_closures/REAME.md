@@ -31,3 +31,6 @@ This is a function that returns the reversed version of a list:
 
 9. Log me
 This is a function that prints the number of arguments already printed and the new argument value.
+
+10. Number conversion
+This is a function that converts a number from base 10 to another base passed as argument:
