@@ -13,3 +13,6 @@ This is a class Rectangle that defines a rectangle:
 
 3. Rectangle #3
 This is a class Rectangle that defines a rectangle:
+
+4. Rectangle #4
+This is a class Rectangle that defines a rectangle:
