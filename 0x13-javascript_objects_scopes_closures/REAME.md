@@ -28,3 +28,6 @@ This is a function that returns the number of occurrences in a list:
 
 8. Esrever
 This is a function that returns the reversed version of a list:
+
+9. Log me
+This is a function that prints the number of arguments already printed and the new argument value.
