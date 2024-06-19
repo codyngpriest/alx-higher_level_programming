@@ -40,3 +40,6 @@ This is a script that imports an array and computes a new array.
 
 12. Sorted occurences
 This is a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.
+
+13. Concat files
+This is a script that concats 2 files.
