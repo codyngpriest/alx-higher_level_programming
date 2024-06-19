@@ -25,3 +25,6 @@ This is a class Square that defines a square and inherits from Square of 5-squar
 
 7. Occurrences
 This is a function that returns the number of occurrences in a list:
+
+8. Esrever
+This is a function that returns the reversed version of a list:
