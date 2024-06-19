@@ -7,3 +7,6 @@ This is an empty class Rectangle that defines a rectangle:
 
 1. Rectangle #1
 This is a class Rectangle that defines a rectangle:
+
+2. Rectangle #2
+This is a class Rectangle that defines a rectangle:
