@@ -37,3 +37,6 @@ This is a function that converts a number from base 10 to another base passed as
 
 11. Factor index
 This is a script that imports an array and computes a new array.
+
+12. Sorted occurences
+This is a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.
