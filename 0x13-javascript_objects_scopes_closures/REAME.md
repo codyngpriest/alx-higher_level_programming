@@ -4,3 +4,6 @@ Tasks
 
 0. Rectangle #0
 This is an empty class Rectangle that defines a rectangle:
+
+1. Rectangle #1
+This is a class Rectangle that defines a rectangle:
