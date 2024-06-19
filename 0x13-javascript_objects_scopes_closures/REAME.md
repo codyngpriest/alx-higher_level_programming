@@ -22,3 +22,6 @@ This is a class Square that defines a square and inherits from Rectangle of 4-re
 
 6. Square #1
 This is a class Square that defines a square and inherits from Square of 5-square.js:
+
+7. Occurrences
+This is a function that returns the number of occurrences in a list:
