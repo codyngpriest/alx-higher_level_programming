@@ -19,3 +19,6 @@ This is a class Rectangle that defines a rectangle:
 
 5. Square #0
 This is a class Square that defines a square and inherits from Rectangle of 4-rectangle.js:
+
+6. Square #1
+This is a class Square that defines a square and inherits from Square of 5-square.js:
