@@ -41,3 +41,6 @@ This is a script that adds the State object “Louisiana” to the database hbtn
 
 12. Update a state
 This is a script that changes the name of a State object from the database hbtn_0e_6_usa
+
+13. Delete states
+This is a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa
