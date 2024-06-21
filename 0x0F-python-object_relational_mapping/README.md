@@ -53,3 +53,6 @@ This is a script that creates the State “California” with the City “San Fr
 
 16. List relationship
 This is a script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
+
+17. From city
+This is a script that lists all City objects from the database hbtn_0e_101_usa
