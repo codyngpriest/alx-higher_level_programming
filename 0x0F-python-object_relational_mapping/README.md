@@ -44,3 +44,6 @@ This is a script that changes the name of a State object from the database hbtn_
 
 13. Delete states
 This is a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa
+
+14. Cities in state
+This is a Python file similar to model_state.py named model_city.py that contains the class definition of a City.
