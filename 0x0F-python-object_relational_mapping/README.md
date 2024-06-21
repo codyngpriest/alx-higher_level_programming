@@ -50,3 +50,6 @@ This is a Python file similar to model_state.py named model_city.py that contain
 
 15. City relationship
 This is a script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py)
+
+16. List relationship
+This is a script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
