@@ -26,3 +26,6 @@ This is a python file that contains the class definition of a State and an insta
 
 7. All states via SQLAlchemy
 This is a script that lists all State objects from the database hbtn_0e_6_usa
+
+8. First state
+This is a script that prints the first State object from the database hbtn_0e_6_usa
