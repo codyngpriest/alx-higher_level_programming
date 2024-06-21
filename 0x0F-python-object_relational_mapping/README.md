@@ -35,3 +35,6 @@ This is a script that lists all State objects that contain the letter a from the
 
 10. Get a state
 This is a script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa
+
+11. Add a new state
+This is a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
