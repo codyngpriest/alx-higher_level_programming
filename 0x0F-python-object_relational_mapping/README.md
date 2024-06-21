@@ -17,3 +17,6 @@ This is a script that takes in arguments and displays all values in the states t
 
 4. Cities by states
 This is a script that lists all cities from the database hbtn_0e_4_usa
+
+5. All cities by state
+This is a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa
