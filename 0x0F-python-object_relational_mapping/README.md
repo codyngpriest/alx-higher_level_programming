@@ -23,3 +23,6 @@ This is a script that takes in the name of a state as an argument and lists all 
 
 6. First state model
 This is a python file that contains the class definition of a State and an instance Base = declarative_base():
+
+7. All states via SQLAlchemy
+This is a script that lists all State objects from the database hbtn_0e_6_usa
