@@ -10,3 +10,7 @@ This is a script that lists all states with a name starting with N (upper N) fro
 
 2. Filter states by user input
 This is a script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.
+
+
+3. SQL Injection...
+This is a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!
