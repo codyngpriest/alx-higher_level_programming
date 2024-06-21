@@ -47,3 +47,6 @@ This is a script that deletes all State objects with a name containing the lette
 
 14. Cities in state
 This is a Python file similar to model_state.py named model_city.py that contains the class definition of a City.
+
+15. City relationship
+This is a script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py)
