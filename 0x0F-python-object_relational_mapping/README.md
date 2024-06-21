@@ -38,3 +38,6 @@ This is a script that prints the State object with the name passed as argument f
 
 11. Add a new state
 This is a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
+
+12. Update a state
+This is a script that changes the name of a State object from the database hbtn_0e_6_usa
