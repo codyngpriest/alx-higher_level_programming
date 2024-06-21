@@ -29,3 +29,6 @@ This is a script that lists all State objects from the database hbtn_0e_6_usa
 
 8. First state
 This is a script that prints the first State object from the database hbtn_0e_6_usa
+
+9. Contains `a`
+This is a script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa
