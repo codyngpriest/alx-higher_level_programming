@@ -14,3 +14,6 @@ This is a Bash script that sends a DELETE request to the URL passed as the first
 3. cURL only methods
 This is a Bash script that takes in a URL and displays all HTTP methods the server will accept.
 
+4. cURL headers
+This is a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response
+
