@@ -10,3 +10,7 @@ This is a Bash script that takes in a URL, sends a GET request to the URL, and d
 
 2. cURL Method
 This is a Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response
+
+3. cURL only methods
+This is a Bash script that takes in a URL and displays all HTTP methods the server will accept.
+
