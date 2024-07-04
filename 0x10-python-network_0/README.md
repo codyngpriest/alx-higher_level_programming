@@ -7,3 +7,6 @@ This is a Bash script that takes in a URL, sends a request to that URL, and disp
 
 1. cURL to the end
 This is a Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response
+
+2. cURL Method
+This is a Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response
