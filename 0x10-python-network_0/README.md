@@ -20,3 +20,6 @@ This is a Bash script that takes in a URL as an argument, sends a GET request to
 
 5. cURL POST parameters
 This is a Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response
+
+6. Find a peak
+This is a function that finds a peak in a list of unsorted integers.
