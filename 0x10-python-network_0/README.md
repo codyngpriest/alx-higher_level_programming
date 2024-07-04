@@ -23,3 +23,6 @@ This is a Bash script that takes in a URL, sends a POST request to the passed UR
 
 6. Find a peak
 This is a function that finds a peak in a list of unsorted integers.
+
+7. Only status code
+This is a Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.
