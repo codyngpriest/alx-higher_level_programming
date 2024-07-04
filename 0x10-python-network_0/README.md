@@ -17,3 +17,6 @@ This is a Bash script that takes in a URL and displays all HTTP methods the serv
 4. cURL headers
 This is a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response
 
+
+5. cURL POST parameters
+This is a Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response
