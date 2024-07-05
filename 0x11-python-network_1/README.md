@@ -22,3 +22,6 @@ This is a Python script that takes in a URL, sends a request to the URL and disp
 
 6. POST an email #1
 This is a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
+
+7. Error code #1
+This is a Python script that takes in a URL, sends a request to the URL and displays the body of the response.
