@@ -25,3 +25,6 @@ This is a Python script that takes in a URL and an email address, sends a POST r
 
 7. Error code #1
 This is a Python script that takes in a URL, sends a request to the URL and displays the body of the response.
+
+8. Search API
+This is a Python script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user with the letter as a parameter.
