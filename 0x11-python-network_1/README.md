@@ -31,3 +31,9 @@ This is a Python script that takes in a letter and sends a POST request to http:
 
 9. My GitHub!
 This is a Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id
+
+10. Time for an interview!
+This is a Python script that takes 2 arguments in order to solve this challenge.
+Please list 10 commits (from the most recent to oldest) of the repository “rails” by the user “rails”
+You must use the GitHub API, here is the documentation https://developer.github.com/v3/repos/commits/
+Print all commits by: `<sha>: <author name>` (one by line)
