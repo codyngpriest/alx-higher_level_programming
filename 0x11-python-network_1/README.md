@@ -17,4 +17,5 @@ This is a Python script that takes in a URL, sends a request to the URL and disp
 4. What's my status? #1
 This is a Python script that fetches https://alx-intranet.hbtn.io/status
 
-
+5. Response header value #1
+This is a Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header
