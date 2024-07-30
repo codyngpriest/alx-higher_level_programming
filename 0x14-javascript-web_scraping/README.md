@@ -25,3 +25,6 @@ This is a script that computes the number of tasks completed by user id.
 
 7. Who was playing in this movie?
 This is a script that prints all characters of a Star Wars movie:
+
+8. Right order
+This is a script that prints all characters of a Star Wars movie:
