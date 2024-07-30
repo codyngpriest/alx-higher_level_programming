@@ -19,3 +19,6 @@ This is a script that prints the number of movies where the character “Wedge A
 
 5. Loripsum
 This is a script that gets the contents of a webpage and stores it in a file.
+
+6. How many completed?
+This is a script that computes the number of tasks completed by user id.
