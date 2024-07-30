@@ -16,3 +16,6 @@ This is a script that prints the title of a Star Wars movie where the episode nu
 
 4. Star wars Wedge Antilles
 This is a script that prints the number of movies where the character “Wedge Antilles” is present.
+
+5. Loripsum
+This is a script that gets the contents of a webpage and stores it in a file.
