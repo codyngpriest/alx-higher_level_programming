@@ -22,3 +22,6 @@ This is a script that gets the contents of a webpage and stores it in a file.
 
 6. How many completed?
 This is a script that computes the number of tasks completed by user id.
+
+7. Who was playing in this movie?
+This is a script that prints all characters of a Star Wars movie:
